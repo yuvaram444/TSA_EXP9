@@ -334,7 +334,9 @@ ADF Test — Original Close Price
   Critical Values: 1%: -3.4537, 5%: -2.8718, 10%: -2.5722
   → NON-STATIONARY (p > 0.05)
 ```
+
 <img width="1111" height="630" alt="image" src="https://github.com/user-attachments/assets/cf3135c5-fc59-4a78-913a-c45e940686d7" />
+
 ```
 ============================================================
 STEP 3 — ARIMA PARAMETERS (p, d, q)
@@ -397,7 +399,9 @@ STEP 7 — MODEL EVALUATION (RMSE & MAE)
 
 Best Model: ARIMA(1,1,1)  (lowest RMSE = 68.73)
 ```
+
 <img width="1120" height="478" alt="image" src="https://github.com/user-attachments/assets/209465be-74fa-4eb7-bf4f-07198f75d734" />
+
 ```
 ============================================================
 FINAL PREDICTION — Next 12 Months (2025)
@@ -415,7 +419,10 @@ FINAL PREDICTION — Next 12 Months (2025)
 2025-10-01               948.21
 2025-11-01               950.10
 2025-12-01               954.49
+
 ```
+
+
 <img width="1118" height="794" alt="image" src="https://github.com/user-attachments/assets/312742da-fc83-4656-b00c-e4bb57cec459" />
 
 
